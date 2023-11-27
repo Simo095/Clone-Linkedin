@@ -1,0 +1,22 @@
+.offcanvas-bottom {
+  position: fixed;
+  height: 80vh !important;
+  top: 20vh !important;
+  left: unset !important;
+  right: 0;
+  bottom: unset !important;
+  border-top: 1px solid grey !important;
+  border-left: 1px solid grey;
+  border-top-left-radius: 10px;
+}
+.offcanvas-backdrop {
+  position: static;
+}
+.in-basso {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
+.offcanvas-backdrop.fade {
+  display: none;
+}

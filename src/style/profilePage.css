@@ -1,0 +1,66 @@
+.btnMain {
+  border-radius: 20px;
+  padding-block: 5px;
+  padding-inline: 10px;
+  margin-inline: 5px;
+  margin-block: 10px;
+}
+
+.carousel-control-prev {
+  left: -50px;
+}
+.carousel-control-prev-icon {
+  background-color: rgb(65, 65, 65);
+  border-radius: 50%;
+  padding: 5px;
+}
+
+.carousel-control-next {
+  right: -50px;
+}
+.carousel-control-next-icon {
+  background-color: rgb(65, 65, 65);
+  border-radius: 50%;
+  padding: 5px;
+}
+
+@media screen and (max-width: 499px) {
+  .carousel-control-prev {
+    left: -40px;
+  }
+  .carousel-control-next {
+    right: -40px;
+  }
+}
+@media screen and (min-width: 995px) {
+  .carousel-control-prev {
+    left: -60px;
+  }
+  .carousel-control-next {
+    right: -60px;
+  }
+}
+
+@media screen and (min-width: 1199px) {
+  .carousel-control-prev {
+    left: -75px;
+  }
+  .carousel-control-next {
+    right: -75px;
+  }
+}
+@media screen and (min-width: 1399px) {
+  .carousel-control-prev {
+    left: -80px;
+  }
+  .carousel-control-next {
+    right: -80px;
+  }
+}
+
+.nav-underline .nav-link.active {
+  color: green;
+}
+.nav-link {
+  color: rgb(0, 157, 255);
+}

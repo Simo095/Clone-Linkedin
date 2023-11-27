@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48.11" height="48.03" viewBox="0 0 48.11 48.03" id="ui-feed-profile-small" data-supported-dps="48x48">
+  <path fill="#fff" d="M2.05 8.02h44v38h-44z"/>
+  <path fill="#dce6f1" d="M46.05 8.03v37.99h-44V8.03h-2v39.99h48V8.03h-2z"/>
+  <path d="M48.05 2.57V8h-48V2.57A2.59 2.59 0 012.66 0h42.77a2.59 2.59 0 012.62 2.54z" fill="#9db3c8"/>
+  <circle cx="4.05" cy="4.02" r="2" fill="#fff"/>
+  <path fill="#f8c77e" d="M6.05 34.02h36v6h-36z"/>
+  <path d="M41.05 30h-34a1 1 0 010-2h34a1 1 0 010 2zM41.05 24h-18a1 1 0 010-2h18a1 1 0 010 2zM41.05 18h-18a1 1 0 010-2h18a1 1 0 010 2z" fill="#788fa5"/>
+  <path d="M16.41 23.14A6 6 0 0012.05 13 6 6 0 007.7 23.14a9 9 0 018.71 0z" fill="#56687a"/>
+  <path d="M12.05 25a6 6 0 004.36-1.88 9 9 0 00-8.71 0A6 6 0 0012.05 25z" fill="#f8c77e"/>
+  <circle cx="12.05" cy="18.02" r="3" fill="#f8c77e"/>
+</svg>
